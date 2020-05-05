@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=RX_DEVICE Pin=D1-1
+Added Pin To Net: NetName=RX_DEVICE Pin=P2-1
+Added Net: Name=RX_DEVICE
+Added Pin To Net: NetName=RX_SNIFFER Pin=D1-2
+Added Pin To Net: NetName=RX_SNIFFER Pin=D2-2
+Added Pin To Net: NetName=RX_SNIFFER Pin=P1-3
+Added Pin To Net: NetName=RX_SNIFFER Pin=R1-2
+Added Net: Name=RX_SNIFFER
+Added Pin To Net: NetName=TX_DEVICE Pin=D2-1
+Added Pin To Net: NetName=TX_DEVICE Pin=P2-2
+Added Net: Name=TX_DEVICE
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Net: Name=VCC
+Added Room: Name=Serial_Sniffer

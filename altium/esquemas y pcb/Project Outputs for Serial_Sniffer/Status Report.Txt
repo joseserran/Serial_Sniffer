@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Serial_Sniffer.PcbDoc]
+   Generated File[Serial_Sniffer.TXT]
+   Generated File[Serial_Sniffer.LDP]
+   Generated File[Serial_Sniffer.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:28:11 On 05/05/2020
